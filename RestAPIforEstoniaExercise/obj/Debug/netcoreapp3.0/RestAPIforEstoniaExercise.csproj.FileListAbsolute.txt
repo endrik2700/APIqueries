@@ -1,0 +1,11 @@
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.exe
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.deps.json
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.runtimeconfig.json
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.runtimeconfig.dev.json
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.dll
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\bin\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.pdb
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\obj\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.csprojAssemblyReference.cache
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\obj\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.AssemblyInfoInputs.cache
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\obj\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.AssemblyInfo.cs
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\obj\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.dll
+C:\Users\endri\OneDrive\Desktop\RestAPIforEstoniaExercise\RestAPIforEstoniaExercise\obj\Debug\netcoreapp3.0\RestAPIforEstoniaExercise.pdb

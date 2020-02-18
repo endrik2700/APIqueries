@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RestAPIforEstoniaExercise/1.0.0": {
+        "runtime": {
+          "RestAPIforEstoniaExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestAPIforEstoniaExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
